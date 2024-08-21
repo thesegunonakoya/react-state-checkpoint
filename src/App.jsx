@@ -8,7 +8,7 @@ class App extends Component {
       person: {
         fullName: "Oluwasegun Onakoya",
         bio: "A curiosity-led software engineer that studied at GoMyCode.",
-        imgSrc: {Capture},
+        imgSrc: {pfp},
         profession: "Software Developer"
       },
       shows: true,
