@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Capture from '../public/capture.jpg';
+import pfp from '../public/capture.jpg';
 
 class App extends Component {
   constructor(props) {
