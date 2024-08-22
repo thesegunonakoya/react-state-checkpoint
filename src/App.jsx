@@ -1,4 +1,3 @@
-import React, { Component } from 'react';
 import pfp from '../public/capture.jpg';
 
 class App extends Component {
